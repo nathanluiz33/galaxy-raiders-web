@@ -16,8 +16,19 @@
                   :key="explosion.center"
                   v-for="explosion in spaceField.explosions" />
     </div>
+    <GameButtons />
   </div>
 </template>
+
+<script>
+import GameButtons from '../components/GameButtons.vue';
+
+export default {
+  components: {
+    GameButtons,
+  },
+};
+</script>
 
 <script setup>
 const {
