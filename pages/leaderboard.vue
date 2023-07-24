@@ -1,7 +1,6 @@
 <template>
-  <div id="start_menu">
-    <GameButtons />
-  </div>
+	Leaderboard
+	<GameButtons />
 </template>
 
 <script>
@@ -12,11 +11,3 @@ export default {
   },
 };
 </script>
-
-<style>
-.buttons {
-	display: flex;
-	justify-content: center;
-	align-content: center;
-}
-</style>
