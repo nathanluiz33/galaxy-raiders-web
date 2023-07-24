@@ -5,7 +5,7 @@ Web interface for the API project of MAC0218 - Programming Techniques II at @USP
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
-
+ 
 ## Setup
 
 Make sure to install the dependencies:
